@@ -2,4 +2,4 @@
 
 Projeto completo de Data Science aplicado a um dataset do AirBnb Rio
 
-Hashtag Treinamentos
+Projeto desenvolvido na Aula 04 no Intesivão de Python provido pela Hashtag Treinamentos
